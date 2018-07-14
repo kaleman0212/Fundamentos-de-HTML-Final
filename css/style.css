@@ -1,0 +1,111 @@
+/*Body*/
+body
+{
+    margin:0px;
+    padding-top:5px;
+    background:#FFFFFF;
+}
+#main_container
+{
+    width:90%;
+    margin-left:5%;
+    padding-top:0px;
+    padding-bottom:0px;
+    float:left;
+
+}
+
+/*Content*/
+.content{
+    width:90%;
+    margin-top:90px;
+    margin-left:5%;
+    padding-bottom:0px;
+    background:#FFFFFF;
+
+    height: auto;
+    float:left;
+}
+.content article
+{
+    padding: 3%;
+}
+.content article h2
+{
+}
+/*Header*/
+.header
+{
+    width:90%;
+    margin-top:5px;
+    margin-left:5%;
+    background:#FFFFFF;
+
+    height: 200px;
+    float:left;
+}
+
+.h2_content
+H2 { text-align: left; margin-left:35%}
+
+/*Menu */
+.top_menu ul
+{
+
+    list-style:none;
+    float:left;
+
+    padding: 2%;
+    width:95%;
+}
+.top_menu ul li
+{
+
+    float:left;
+    margin-right:20px;
+    margin-bottom:10px;
+    background: #996666;
+    padding:5px;
+    border-radius: 15%;
+}
+.top_menu ul li a
+{
+    color: #FFFFFF;
+    text-decoration:none;
+}
+.top_menu ul li a:hover
+{
+    color: blue;
+}
+/*Footer*/
+.footer
+{
+    width:90%;
+    margin-top:200px;
+    margin-left:5%;
+    background:#FFFFFF;
+        height: 180px;
+    float:left;
+}
+.footer_msg
+{
+    margin-top: 80px;
+text-align: center;
+
+margin-left: 5%;
+font-size: 0.8em;
+color: rgb(126, 126, 126);
+}
+
+.t{ border-collapse: collapse; border:2px solid #ccc; }
+.t tH{ color: #FFFFFF  ;border :3px solid #660000 ;background: #993300}
+.t td{ border :3px solid #660000 ; }
+.t td:hover {background: #e0e0e0;
+color: #000;}
+.tt { text-align: center;}
+
+.video {
+  width="80PX" height="80PX"
+
+
+}
